@@ -1,17 +1,18 @@
-Política fiscal - Impostos
+# Política fiscal - Impostos
 
-o objetivo do governo é buscar Equilibrio entre as Despesas e Receitas para conseguir mater a dívida publica saudável
+O objetivo do governo é buscar Equilibrio entre as Despesas e Receitas para conseguir mater a dívida publica saudável.
 
--Superavit - quando a Arrecadação atraves de impostos é maior que as despesas (Sobra dinheiro)
--Deficit - quando o Governo gastou mais do que arrecadou dos impostos (Falta dinheiro)
--Primario - Quando essa balança fica estável 
+Existem três status dessa balança: 
+- Superavit é quando a Arrecadação atraves de impostos é maior que as despesas (Sobra dinheiro)
+- Deficit é quando o Governo gastou mais do que arrecadou dos impostos (Falta dinheiro)
+- Primário Quando essa balança fica estável 
 
-consequencias e soluções para esses casos:
--Superavit - consegue gerar caixa para investimentos, repasse aos serviços públicos e fazer a amortização de Dívidas.
+# consequencias e soluções para esses casos:
+quando o Estado consegue um **Superavit**, vai permitir que gere caixa para investimentos, repasse aos serviços públicos e faça a amortização de Dívidas.
 
--Deficit - precisa gerar Titulos públicos para conseguir arcar com as despesas (Toma empréstimo através de títulos) 
-o que acarretará numa maior divida pública no futuro, Poderá causar problemas relacionados 
-à aumento de impostos e desinvestimentos como leilões e privatizações.
+quando o balanço de política fiscal fica num status de *Déficit** o Estado precisa gerar Titulos públicos para conseguir arcar com as despesas (Toma empréstimo através de títulos públicos) 
+o que acaba acarretando numa maior dívida pública no futuro, Poderá causar problemas relacionados 
+à aumento de impostos e serão necessários iniciativas de desinvestimentos como leilões e privatizações.
 
--Primário - balança estabilizada porém podem acontecer problemas relacionados à falta de dinheiro sobrando. 
+Quando o Estado consegue um status de **Primário** a balança de custos e arrecadações fica estabilizada, porém, podem acontecer problemas relacionados à falta de dinheiro, 
 o que deixa o Estado sem capacidade de investir sem gerar Dívidas
