@@ -50,5 +50,7 @@ etc ...
 
 ---
 
-Esse gráfico mostra uma situação hipotética de diferença da aplicação dos tipos de juros à longo prazo.
-![Imagem](.atachments\gráfico-juros-compostos-juros-simples-1.jpg)
+Esse gráfico mostra uma situação hipotética de diferença da aplicação dos tipos de juros à longo prazo.  
+
+![gráfico-juros-compostos-juros-simples-1](.atachments\gráfico-juros-compostos-juros-simples-1.jpg)  
+![gráfico-juros-compostos-juros-simples-1](https://user-images.githubusercontent.com/33599569/179856727-0f476d36-0cca-450e-88bf-61d2a41c884e.jpg)
