@@ -15,7 +15,7 @@ Ipca  6%a.a
 
 Bem como as taxas de juros simples e juros compostos
 
-# Juros Simples
+## Juros Simples
 As taxas de juros simples incidem sobre um Capital Inicial, ou seja, não incide sobre os rendimentos
 
 > $M = C * i * T$
@@ -31,7 +31,7 @@ etc ...
 
 > obs: notem que o rendimento é estável e é baseado no capital inicial, não importando os rendimentos.
 
-# Juros Compostos
+## Juros Compostos
 As taxas de juros compostos equivale a Juros sobre a soma do capital + juros do mes anterior
 ex:
 
@@ -47,3 +47,8 @@ Juros de 12%a.a
 | 4° mes | R$1331 | R$131 |
 
 etc ...
+
+---
+
+Esse gráfico mostra uma situação hipotética de diferença da aplicação dos tipos de juros à longo prazo.
+![Imagem](.atachments\gráfico-juros-compostos-juros-simples-1.jpg)
